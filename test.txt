@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CCFD-0628
+
+ Directory of C:\MyData
+
+24-03-2022  12:17    <DIR>          .
+24-03-2022  12:17    <DIR>          ..
+24-03-2022  12:17                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  262,901,432,320 bytes free
